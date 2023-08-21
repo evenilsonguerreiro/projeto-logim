@@ -69,6 +69,7 @@ div#formulario > p{
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    font-size: 1.2em;
 }
 .botao-1:hover{
     background-color: rgb(10, 64, 64);
@@ -78,7 +79,6 @@ form >a.botao {
     align-items: center;
     text-align: center;
     text-decoration: none;
-    font-size: 1.1em;
     margin-top: 5px;
     width: 100%;
     height: 40px;
@@ -103,6 +103,7 @@ form >a.botao {
     background-color: rgb(6, 88, 88);
     color: #fff;
 }
+
 
 
 
