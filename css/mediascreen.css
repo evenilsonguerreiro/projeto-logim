@@ -12,6 +12,9 @@
         float: right;
         width: 65%;
     }
+    div#formulario{
+        margin-top: 70px;
+    }
 
     
 }
@@ -35,6 +38,9 @@
 
     div#formulario > p{
         font-size: 1.2em;
+    }
+    div#formulario{
+        margin-top: 50px;
     }
 
     
