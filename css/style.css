@@ -22,13 +22,17 @@ section#logim{
     width: 250px;
     height: 500px;
     border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.455);
     
 }
 section#logim > div#imagem{
-    background-color: rgb(103, 6, 103) url()no-repeat;
+    display: block;
+    background-image: url(../projeto-logim/imagem/architecture-1048092_640.jpg);
     height: 200px;
     background-size: cover;
-
-
-
+}
+section#logim > #formulario{
+    display: block;
+    padding: 10px;
 }
